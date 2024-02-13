@@ -1,0 +1,14 @@
+Enter The Number of Processes:
+Enter The ProcessId ,arrival_time ,burst_time consecutively
+#P	AT	BT	ST	CT	TAT	WT	RT	
+
+1	1	7	1	8	7	0	0	
+2	3	3	10	13	10	7	7	
+3	6	2	8	10	4	2	2	
+4	7	10	21	31	24	14	14	
+5	9	8	13	21	12	4	4	
+Average TurnAroundTime= 11.4
+Average WaitingTime= 5.4
+Average ResponseTime= 5.4
+CPU Utilization: 142.857%
+Throughput: 0.25
